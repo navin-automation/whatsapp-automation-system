@@ -31,3 +31,15 @@ A robust WhatsApp automation bot designed to handle large-scale business operati
 4. **Install dependencies**:
    ```bash
    node s.js
+
+📝 Configuration
+Catalog: Update Balajii.xlsx to change items, categories, or prices.
+
+Routes: Modify the ROUTES array in s.js to add or remove delivery zones.
+
+⌨️ Global Commands
+0 or restart: Resets the current session and returns to the Route selection.
+
+*: Goes back to the previous step in the ordering flow.
+
+Developed by Navin Meghval - Targeted for large-scale automation workflows.
