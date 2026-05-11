@@ -30,7 +30,7 @@ A robust WhatsApp automation bot designed to handle large-scale business operati
    npx puppeteer browsers install chrome
 4. **Install dependencies**:
    ```bash
-   node s.js
+   node index.js
 
 ## 📝 Configuration
 * **Catalog: Update Balajii.xlsx to change items, categories, or prices.**
