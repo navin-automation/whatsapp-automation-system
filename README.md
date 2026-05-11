@@ -33,7 +33,7 @@ A robust WhatsApp automation bot designed to handle large-scale business operati
    node s.js
 
 ## 📝 Configuration
-* **Catalog: Update Balajii.xlsx to change items, categories, or prices.
+* **Catalog: Update Balajii.xlsx to change items, categories, or prices.**
 * **Routes: Modify the ROUTES array in s.js to add or remove delivery zones**
 
 ⌨️ Global Commands
