@@ -22,3 +22,12 @@ A robust WhatsApp automation bot designed to handle large-scale business operati
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/navin-automation/whatsapp-automation-system.git](https://github.com/navin-automation/whatsapp-automation-system.git)
+2. **Install dependencies**:
+   ```bash
+   npm install
+3. **Install dependencies**:
+   ```bash
+   npx puppeteer browsers install chrome
+4. **Install dependencies**:
+   ```bash
+   node s.js
